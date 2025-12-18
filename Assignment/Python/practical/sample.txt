@@ -1,0 +1,3 @@
+Hello Python
+This is a sample text file.
+File handling is easy.Python is easy to learn.
